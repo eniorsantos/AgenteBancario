@@ -1,0 +1,7 @@
+requests>=2.31
+openpyxl>=3.1
+pdfplumber>=0.11
+pandas>=2.0        # leitura de .xls/.xlsx e painel
+xlrd>=2.0          # só para arquivos .xls antigos
+altair>=5.0        # gráficos do painel
+streamlit>=1.28    # interface gráfica

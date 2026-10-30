@@ -1,0 +1,14 @@
+[theme]
+base = "light"
+primaryColor = "#1F3864"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F1F4F8"
+textColor = "#1B2430"
+font = "sans serif"
+
+[server]
+address = "127.0.0.1"      # só este computador acessa; nada fica exposto na rede
+headless = false
+
+[browser]
+gatherUsageStats = false   # sem telemetria

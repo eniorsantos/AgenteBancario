@@ -1,0 +1,26 @@
+# Ambiente virtual
+venv/
+.venv/
+
+# Dependências
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Planilhas e cache gerados pelo app
+*.xlsx
+*.texto.txt
+categorias_cache.json
+regras_usuario.json
+config_gui.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Temp
+/tmp/
+*.tmp
